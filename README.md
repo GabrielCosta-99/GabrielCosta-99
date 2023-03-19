@@ -1,16 +1,17 @@
-### Hi there 👋
+Olá! Meu nome é Gabriel Costa. Sou uma pessoa comunicativa e adoro aprender novas habilidades. Gosto de me manter ocupado, aproveitar minha família, praticar trilha e viajar.
 
-<!--
-**GabrielCosta-99/GabrielCosta-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formação acadêmica
 
-Here are some ideas to get you started:
+Sou formado como técnico de enfermagem em um instituto oncológico e atualmente estou cursando ensino superior em análise e desenvolvimento de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesses
+
+Tenho grande interesse em aprimorar meus conhecimentos em tecnologia e pretendo futuramente fazer um estágio no exterior para melhorar minhas habilidades linguísticas e profissionais. Além disso, acredito que posso implementar melhorias na área da saúde com base nos meus conhecimentos.
+
+Projetos
+
+Atualmente estou estudando Java e trabalhando em um desenvolvimento de um sistema de jogo de vôlei, como projeto da minha faculdade.
+
+Contato
+
+Se você quiser entrar em contato comigo para discutir qualquer coisa relacionada à minha formação acadêmica, projetos pessoais ou oportunidades profissionais, sinta-se à vontade para me enviar uma mensagem no LinkedIn: https://www.linkedin.com/in/gabriel-costa-7810b3242
