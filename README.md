@@ -2,15 +2,11 @@ Olá! Meu nome é Gabriel Costa. Sou uma pessoa comunicativa e adoro aprender no
 
 Formação acadêmica
 
-Sou formado como técnico de enfermagem em um instituto oncológico e atualmente estou cursando ensino superior em análise e desenvolvimento de sistemas.
+Sou formado como técnico de enfermagem em um instituto oncológico e atualmente estou cursando ensino superior em Ciencias da computação.
 
 Interesses
 
 Tenho grande interesse em aprimorar meus conhecimentos em tecnologia e pretendo futuramente fazer um estágio no exterior para melhorar minhas habilidades linguísticas e profissionais. Além disso, acredito que posso implementar melhorias na área da saúde com base nos meus conhecimentos.
-
-Projetos
-
-Atualmente estou estudando Java e trabalhando em um desenvolvimento de um sistema de jogo de vôlei, como projeto da minha faculdade.
 
 Contato
 
